@@ -107,5 +107,5 @@ Style guides are basically the building blocks of your app’s design. By having
 
 ### 2.] Rendered designs
 Rendered design is the process of taking your wireframes and replacing the grayscale elements with elements from your style guide. There should be a rendered screen for each wireframe screen. Try to stay true to your style guide in this process, but you don’t have to be dogmatic about it. If you find yourself wanting a new or changed style, feel free to update or amend your style guides. Just make sure your design is consistent when this stage is complete.
-- Tools we use: Whiteboards, Pencil & paper, and Sketch (https://www.sketch.com/)
+- Tools we use: Whiteboards, Pencil & paper, and [Sketch](https://www.sketch.com/)
 
