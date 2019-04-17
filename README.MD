@@ -13,9 +13,10 @@ train yourself to always think of things in terms of problems and potential solu
 ### 1.] identifying your competition
 	#### Once you have an idea, you need to plan for your app’s success by identifying your competition. 
 	Check to see if any other apps serve a similar purpose and look for the following
-	- No. of installs
-	- Ratings & Reviews
-	- Company history
+	- No. of installs - See if anyone is using these apps.
+	- Ratings & Reviews - See if people like these apps and what they like/dislike about them.
+	- Company history - See how these apps have changed over time and what sort of challenges they 
+	faced along the way. Try to see what they did to grow their user base.
 	*** Goal:
 	1)Learn for free lessons from competitors
 	2)To Understand how hard it will be to compete in marketplace
