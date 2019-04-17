@@ -60,7 +60,7 @@ to be presented within your app and how that data and functionality is organized
 we begin this process by writing down a list of features we want the app to perform and a list 
 of what needs to be displayed somewhere in the app. These are the basic building blocks with 
 which we will build the wireframes.
-Tools we use: Whiteboards and Pencil & paper
+- Tools we use: Whiteboards and Pencil & paper
 
 ### 2.] Wireframes 
 Next, we begin creating screens and assigning each functions and data. It is ok if somethings 
