@@ -11,6 +11,7 @@ train yourself to always think of things in terms of problems and potential solu
 ->Goal Review
 ->Output: Summarize into Report 
 ### 1.] identifying your competition
+	#### Once you have an idea, you need to plan for your app’s success by identifying your competition. Check to see if any other apps serve a similar purpose and look for the following
 	- No. of installs
 	- Ratings & Reviews
 	- Company history
@@ -61,7 +62,7 @@ to be presented within your app and how that data and functionality is organized
 we begin this process by writing down a list of features we want the app to perform and a list 
 of what needs to be displayed somewhere in the app. These are the basic building blocks with 
 which we will build the wireframes.
-	- Tools we use: Whiteboards and Pencil & paper
+- Tools we use: Whiteboards and Pencil & paper
 
 ### 2.] Wireframes 
 Next, we begin creating screens and assigning each functions and data. It is ok if somethings 
@@ -69,7 +70,7 @@ live in multiple places, but you need to make sure each item has a home. This pr
 place on whiteboards or paper initially. You want to make changes here, rather than later in the 
 process, because it is much cheaper to erase some marks than to rewrite code. Once you have several 
 screens drawn up, begin considering your app’s workflows.
-	- Tools we use: Whiteboards, Pencil & paper, balsamiq, and Sketch
+- Tools we use: Whiteboards, Pencil & paper, balsamiq, and Sketch
 https://balsamiq.com/wireframes/
 https://www.sketch.com/
 
@@ -80,7 +81,7 @@ each click is intuitive. If something takes a few clicks to accomplish, that mig
 should not take a few clicks to perform common tasks. As you find problems with your workflows, 
 update your wireframes and try again. Remember to run through all of your features in each iteration, 
 just to make sure you did not increase the difficulty of one action in an attempt to improve another.
-	- Tools we use: Whiteboards, Pencil & paper, Invision https://www.invisionapp.com/
+- Tools we use: Whiteboards, Pencil & paper, Invision https://www.invisionapp.com/
 
 ### 4.] Click-through models
 Click-through models help you test your wireframes and workflows. They are basically a way to experience 
