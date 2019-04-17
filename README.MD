@@ -11,7 +11,8 @@ train yourself to always think of things in terms of problems and potential solu
 ->Goal Review
 ->Output: Summarize into Report 
 ### 1.] identifying your competition
-	#### Once you have an idea, you need to plan for your app’s success by identifying your competition. Check to see if any other apps serve a similar purpose and look for the following
+	#### Once you have an idea, you need to plan for your app’s success by identifying your competition. 
+	Check to see if any other apps serve a similar purpose and look for the following
 	- No. of installs
 	- Ratings & Reviews
 	- Company history
@@ -27,26 +28,26 @@ train yourself to always think of things in terms of problems and potential solu
 	- ad-revenue, 
 	- selling user data, and 
 	- traditional paid apps.
-To determine which is best for your app, look to see what the market expects 
-to pay and how they expect to pay for similar services. You also need to consider 
-at what point you begin monetizing your app. 
-Far too many apps (particularly startups) skip this step and have a hard time later turning a profit.
+	To determine which is best for your app, look to see what the market expects 
+	to pay and how they expect to pay for similar services. You also need to consider 
+	at what point you begin monetizing your app. Far too many apps (particularly startups)
+	skip this step and have a hard time later turning a profit.
 
 ### 3.] Marketing
-Identifying the biggest challenges you will face when marketing your app. 
-Assuming you have a reliable app development and app design team, your biggest hurdles will 
-likely be driving app adoption
+	#### Identifying the biggest challenges you will face when marketing your app. 
+	Assuming you have a reliable app development and app design team, your biggest hurdles will 
+	likely be driving app adoption
 
 ### 4.] Road Map (MVP)
-The final stage of the strategy process is defining your app’s roadmap. The goal of this process 
-is to understand what your app could one day become and what it needs to be successful on 
-day one. This day one version is often called your Minimum Viable Product (MVP). During this 
-process, it can be helpful to write on a whiteboard all of the things you want your app to do. 
-Then begin ranking these items by priority. Consider what your app's core functionality will be, 
-what is needed to gain users, and what can be added later. If there are some features you think
-users might want, they are likely great candidates for later versions. As you gain users with 
-your MVP, you can solicit feedback on what additional features are desired. App monitoring 
-(covered later in this article) can also assist in this process.
+	#### The final stage of the strategy process is defining your app’s roadmap. The goal of this process 
+	is to understand what your app could one day become and what it needs to be successful on day one. 
+	This day one version is often called your Minimum Viable Product (MVP). During this process, 
+	it can be helpful to write on a whiteboard all of the things you want your app to do. Then 
+	begin ranking these items by priority. Consider what your app's core functionality will be,
+	what is needed to gain users, and what can be added later. If there are some features you 
+	think users might want, they are likely great candidates for later versions. As you gain users
+	with your MVP, you can solicit feedback on what additional features are desired. App monitoring 
+	(covered later in this article) can also assist in this process.
 
 ## User-Experience Design
 ->Wire Frames
