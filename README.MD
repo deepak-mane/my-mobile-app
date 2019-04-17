@@ -18,7 +18,7 @@ train yourself to always think of things in terms of problems and potential solu
 	1)Learn for free lessons from competitors
 	2)To Understand how hard it will be to compete in marketplace
 ### 2.] Montetiztion
-- Several methods of monetization that could work, including: 
+	-- Several methods of monetization that could work, including: 
 	- in-app purchases, 
 	- subscription payments, 
 	- premium features, 
