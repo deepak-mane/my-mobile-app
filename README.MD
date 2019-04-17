@@ -72,9 +72,7 @@ live in multiple places, but you need to make sure each item has a home. This pr
 place on whiteboards or paper initially. You want to make changes here, rather than later in the 
 process, because it is much cheaper to erase some marks than to rewrite code. Once you have several 
 screens drawn up, begin considering your app’s workflows.
-- Tools we use: Whiteboards, Pencil & paper, balsamiq, and Sketch
-https://balsamiq.com/wireframes/
-https://www.sketch.com/
+- Tools we use: Whiteboards, Pencil & paper, [balsamiq](https://balsamiq.com/wireframes/), and [Sketch](https://www.sketch.com/)
 
 ### 3.] Workflows
 Workflows are the pathways users can travel within your app. Consider each of the things you want 
@@ -83,7 +81,7 @@ each click is intuitive. If something takes a few clicks to accomplish, that mig
 should not take a few clicks to perform common tasks. As you find problems with your workflows, 
 update your wireframes and try again. Remember to run through all of your features in each iteration, 
 just to make sure you did not increase the difficulty of one action in an attempt to improve another.
-- Tools we use: Whiteboards, Pencil & paper, Invision https://www.invisionapp.com/
+- Tools we use: Whiteboards, Pencil & paper, [Invision](https://www.invisionapp.com/)
 
 ### 4.] Click-through models
 Click-through models help you test your wireframes and workflows. They are basically a way to experience 
@@ -92,7 +90,7 @@ which when opened on their phone allows them to click through the wireframe. Alt
 no functionality at this point, they can click on each page in the app and begin testing the app’s 
 navigation. As you find issues in this step, make changes with your wireframes and iterate until you 
 are satisfied
-- Tools we use: Invision
+- Tools we use: [Invision](https://www.invisionapp.com/)
 
 ## User-Interface Design
 ->Brand Integration
