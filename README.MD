@@ -67,7 +67,7 @@ This is where having some understanding of what mobile apps can do is extremely 
 	of what needs to be displayed somewhere in the app. These are the basic building blocks with 
 	which we will build the wireframes.
 
-	- Tools we use: Whiteboards and Pencil & paper
+- Tools we use: Whiteboards and Pencil & paper
 
 ### 2.] Wireframes 
 	Next, we begin creating screens and assigning each functions and data. It is ok if somethings 
@@ -76,7 +76,7 @@ This is where having some understanding of what mobile apps can do is extremely 
 	process, because it is much cheaper to erase some marks than to rewrite code. Once you have several 
 	screens drawn up, begin considering your app’s workflows.
 
-	- Tools we use: Whiteboards, Pencil & paper, [balsamiq](https://balsamiq.com/wireframes/), 
+- Tools we use: Whiteboards, Pencil & paper, [balsamiq](https://balsamiq.com/wireframes/), 
 	and [Sketch](https://www.sketch.com/)
 
 ### 3.] Workflows
@@ -88,7 +88,7 @@ This is where having some understanding of what mobile apps can do is extremely 
 	run through all of your features in each iteration, just to make sure you did not increase 
 	the difficulty of one action in an attempt to improve another.
 
-	- Tools we use: Whiteboards, Pencil & paper, [Invision](https://www.invisionapp.com/)
+- Tools we use: Whiteboards, Pencil & paper, [Invision](https://www.invisionapp.com/)
 
 ### 4.] Click-through models
 	Click-through models help you test your wireframes and workflows. They are basically a way
@@ -98,7 +98,7 @@ This is where having some understanding of what mobile apps can do is extremely 
 	page in the app and begin testing the app’s navigation. As you find issues in this step,
 	make changes with your wireframes and iterate until you are satisfied
 
-	- Tools we use: [Invision](https://www.invisionapp.com/)
+- Tools we use: [Invision](https://www.invisionapp.com/)
 
 ## User-Interface Design
 ->Brand Integration
@@ -312,7 +312,7 @@ It would be incredibly naive to think that the mobile app development process en
 	that is crucial for your development team in resolving the problem. Apps can be configured to 
 	send an email/text/alert when crashes occur. These crashes can be viewed and triaged accordingly.
 	
-	Tools we use: [Sentry](https://www.sentry.com/) and [HockeyApp](https://www.hockeyapp.net/)
+- Tools we use: [Sentry](https://www.sentry.com/) and [HockeyApp](https://www.hockeyapp.net/)
 
 	- Analytics
 	Modern app analytics systems are are treasure trove of information. They can help you understand
@@ -323,7 +323,7 @@ It would be incredibly naive to think that the mobile app development process en
 	where to invest future efforts. Don’t build onto portions of the app that are seldom utilized, 
 	but invest where there is action and the largest potential for growth.
 	
-	Tools we use: [Facebook Analytics](https://analytics.facebook.com/), 
+- Tools we use: [Facebook Analytics](https://analytics.facebook.com/), 
 	[Apptentive](https://www.apptentive.com/), 
 	[Google Analytics](https://marketingplatform.google.com/about/analytics/), and 
 	[Appsee](https://www.appsee.com/)
@@ -337,7 +337,7 @@ It would be incredibly naive to think that the mobile app development process en
 	there are any issues. These performance tools typically have dash-boarding, reporting, and 
 	alerting functionality included.
 	
-	Tools we use: [Prometheus](https://prometheus.io/)
+- Tools we use: [Prometheus](https://prometheus.io/)
 
 	- App Store Management
 	App store ratings and reviews are extremely important, particularly for newer apps. Whenever 
