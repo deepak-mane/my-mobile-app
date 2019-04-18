@@ -306,15 +306,15 @@ There are two main components to deploying your mobile app into the world. The f
 
 It would be incredibly naive to think that the mobile app development process ends when the app is shipped. Go look at any even moderately popular apps and you will see a long history of app updates. These updates include fixes, performance improvements, changes, and new features. Thorough monitoring is essential to best understand what sort of updates are needed. Here are a few things you should be monitoring.
 
-	- Crashes
+	1.) Crashes
 	There are numerous libraries that can be used to reliably track app crashes. These libraries include
 	information about what the user was doing, what device they were on, and plenty of technical info 
 	that is crucial for your development team in resolving the problem. Apps can be configured to 
 	send an email/text/alert when crashes occur. These crashes can be viewed and triaged accordingly.
 	
 - Tools we use: [Sentry](https://www.sentry.com/) and [HockeyApp](https://www.hockeyapp.net/)
-
-	- Analytics
+	```
+	2.) Analytics
 	Modern app analytics systems are are treasure trove of information. They can help you understand
 	who is using your apps (age, gender, location, language, etc.) and how they are using it (time of
 	day, time spent in app, screens viewed in app, etc.). Some even allow you to view heat maps of 
@@ -322,12 +322,12 @@ It would be incredibly naive to think that the mobile app development process en
 	an invaluable glimpse into how your app is being used. Use this information to best understand 
 	where to invest future efforts. Don’t build onto portions of the app that are seldom utilized, 
 	but invest where there is action and the largest potential for growth.
-	
+		```
 - Tools we use: [Facebook Analytics](https://analytics.facebook.com/), 
 	[Apptentive](https://www.apptentive.com/), 
 	[Google Analytics](https://marketingplatform.google.com/about/analytics/), and 
 	[Appsee](https://www.appsee.com/)
-
+	```
 	- Performance
 	One vital metric not covered by the previous two monitoring categories is your apps technical
 	performance, i.e. how quickly it works. Any system we deploy has extensive performance 
@@ -336,9 +336,9 @@ It would be incredibly naive to think that the mobile app development process en
 	let us know if a particular action is slower than expected, so we can quickly look to see if 
 	there are any issues. These performance tools typically have dash-boarding, reporting, and 
 	alerting functionality included.
-	
+		```
 - Tools we use: [Prometheus](https://prometheus.io/)
-
+	```
 	- App Store Management
 	App store ratings and reviews are extremely important, particularly for newer apps. Whenever 
 	a new review is left on your listing, make sure to engage the reviewer. Thank users who give 
@@ -346,7 +346,7 @@ It would be incredibly naive to think that the mobile app development process en
 	reviews changed to 5-stars just with a little customer service. Users don’t expect app 
 	developers and owners to provide a hands-on level of service and that help goes a long way 
 	in boosting your online reputation.
-	
+		```
 ## Further Iteration and Improvement
 The purpose of all this monitoring is to know what you need to do next. Most apps are never really done. There are always new features that can be added and things that can be improved upon. It would be incredibly wasteful to blindly build on your app. Use the information you have received from your users and your monitoring platforms. Then repeat parts of this mobile app development process (don’t worry, many steps are much easier each after the first pass). Continue to improve your app, your conversion rates, your install base, and of course your revenue. Mobile apps are fluid. Take advantage of that by continuing to grow and improve.
 
