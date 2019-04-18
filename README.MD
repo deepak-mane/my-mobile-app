@@ -228,6 +228,8 @@ Sound mobile app development is an iterative process. You have likely heard the 
 	testers have access to your app. It is a great way to keep everyone up to speed on 
 	progress. During development, we try to update Hockey once or twice a week.
 
+- Tools we use: [Hockey App](https://hockeyapp.net/)
+
 ### 3.) Testing
 	Most testing should be performed by non-developers or at least people who are not your 
 	app’s primary 	developer. This will help ensure a more genuine testing experience. There 
