@@ -13,7 +13,7 @@ This is where having some understanding of what mobile apps can do is extremely 
 ->Goal Review
 ->Output: Summarize into Report 
 ### 1.] identifying your competition
-	#### Once you have an idea, you need to plan for your app’s success by identifying your competition. 
+	Markup : * Once you have an idea, you need to plan for your app’s success by identifying your competition. 
 	Check to see if any other apps serve a similar purpose and look for the following
 	- No. of installs - See if anyone is using these apps.
 	- Ratings & Reviews - See if people like these apps and what they like/dislike about them.
@@ -24,7 +24,7 @@ This is where having some understanding of what mobile apps can do is extremely 
 	2)To Understand how hard it will be to compete in marketplace
 
 ### 2.] Montetiztion
-	### Several methods of monetization that could work, including: 
+	Markup : * Several methods of monetization that could work, including: 
 	- in-app purchases, 
 	- subscription payments, 
 	- premium features, 
@@ -37,12 +37,12 @@ This is where having some understanding of what mobile apps can do is extremely 
 	skip this step and have a hard time later turning a profit.
 
 ### 3.] Marketing
-	#### Identifying the biggest challenges you will face when marketing your app. 
+	Markup : * Identifying the biggest challenges you will face when marketing your app. 
 	Assuming you have a reliable app development and app design team, your biggest hurdles will 
 	likely be driving app adoption
 
 ### 4.] Road Map (MVP)
-	#### The final stage of the strategy process is defining your app’s roadmap. The goal of this process 
+	Markup : * The final stage of the strategy process is defining your app’s roadmap. The goal of this process 
 	is to understand what your app could one day become and what it needs to be successful on day one. 
 	This day one version is often called your Minimum Viable Product (MVP). During this process, 
 	it can be helpful to write on a whiteboard all of the things you want your app to do. Then 
