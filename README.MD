@@ -384,4 +384,3 @@ The purpose of all this monitoring is to know what you need to do next. Most app
 The mobile app development process might seem overwhelming and involved. There are a lot of steps and difficult decision making is required along the way. But, it is an extremely rewarding process and can be quite lucrative. Also, there might be some temptation to skips steps in this process, but this guide is built upon years of experience working with app owners that chose to skip certain steps.
 
 # END
-	
