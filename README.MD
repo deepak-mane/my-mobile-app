@@ -130,17 +130,17 @@ There are numerous approaches, technologies, and programing languages that can b
 ### 1.] Front-end (the mobile app)
 For front-end development, there are basically 3 approaches. They are platform-specific native, cross-platform native, and hybrid. Here is a brief overview of each approach and some articles that delve into each with greater details.
 
-	- Platform-specific Native - Apps built with this approach are written separately for each mobile platform. 
-	Code can’t be reused between Android and iOS, but these apps can be fully optimized for each platform. 
-	The UI can look entirely native (so it will fit in with the OS) and the app should work fluidly. This is 
-	often the most expensive approach, but is very tried and tested.
-	- Cross-platform Native - Apps built with this approach have some (or entirely shared) code, but still run
-	natively. Common technologies used for this are React Native, Xamarin, and Native Script. This is a nice 
-	middle ground between the various approaches in that it is more cost-effective, but can still be optimized
-	and styled for each platform.
-	- Hybrid - Hybrid apps are built using web technologies (HTML, CSS, Javascript) and are installed via a
-	native wrapper. This can be done using technologies such as Cordova, Phone Gap, and Ionic. This option can
-	be the cheapest, but also presents some very real difficulties.
+	- Platform-specific Native - Apps built with this approach are written separately for each mobile
+	platform. Code can’t be reused between Android and iOS, but these apps can be fully optimized
+	for each platform. The UI can look entirely native (so it will fit in with the OS) and the app
+	should work fluidly. This is often the most expensive approach, but is very tried and tested.
+	- Cross-platform Native - Apps built with this approach have some (or entirely shared) code, 
+	but still run natively. Common technologies used for this are React Native, Xamarin, and 
+	Native Script. This is a nice 	middle ground between the various approaches in that it is 
+	more cost-effective, but can still be optimized and styled for each platform.
+	- Hybrid - Hybrid apps are built using web technologies (HTML, CSS, Javascript) and are 
+	installed via a native wrapper. This can be done using technologies such as Cordova, Phone Gap,
+	and Ionic. This option can be the cheapest, but also presents some very real difficulties.
 
 ### 2.] Back-end (Web API & Server)
 The server is responsible for much of your app’s performance and scalability. The technologies used here are similar to those used to power web-based applications. Here are a few things you have to decide before writing code:
@@ -171,62 +171,71 @@ The server is responsible for much of your app’s performance and scalability. 
 Sound mobile app development is an iterative process. You have likely heard the term “sprints” or “agile methodology”. This basically means that you break up all development work into smaller milestones and build your app in a series of cycles. Each cycle will include planning, development, testing, and review. There are entire books written on this process, so this article will just provide a brief overview of each step. If your company elects to use another process, these steps will be quite similar, but the order and length of each might vary.
 	
 	- Planning 
-	The planning phase of a sprint involves dividing up the list of tasks to be implemented during the 
-	current iteration. Each task needs clearly defined requirements. Once these requirements are 
-	understood by developers, they will often estimate the time needed to complete each task, so that 
-	the tasks can be evenly distributed to ensure a balanced workload during the sprint.
-	Developers also begin planning their approach to solving their assigned problems during this phase. 
-	Skilled software developers find ways to intelligently reuse code throughout an application. This 
-	is especially important for implementing styles and shared functionality. If a design needs to be 
-	changed (believe me, something will change), you don’t want to have to go and update code in numerous
-	places. Instead, well designed software can be changed in select places to make these sorts of 
-	sweeping changes.
+	The planning phase of a sprint involves dividing up the list of tasks to be implemented 
+	during the current iteration. Each task needs clearly defined requirements. Once these 
+	requirements are  understood by developers, they will often estimate the time needed to 
+	complete each task, so that the tasks can be evenly distributed to ensure a balanced 
+	workload during the sprint. Developers also begin planning their approach to solving their
+	assigned problems during this phase. 
+	Skilled software developers find ways to intelligently reuse code throughout an 
+	application. This  is especially important for implementing styles and shared functionality.
+	If a design needs to be  changed (believe me, something will change), you don’t want to have
+	to go and update code in numerous places. Instead, well designed software can be changed in 
+	select places to make these sorts of sweeping changes.
 
 	- Development
-	During the development phase your development team will begin implementing the styles and functionality
-	of your app. As they are completed, they are assigned back to a project manager or QA tester for 
-	review. Good project managers are able to fully optimize developer workloads during this process 
-	by properly redistributing assignments throughout the sprint.
+	During the development phase your development team will begin implementing the styles and
+	functionality of your app. As they are completed, they are assigned back to a project 
+	manager or QA tester for review. Good project managers are able to fully optimize 
+	developer workloads during this process by properly redistributing assignments 
+	throughout the sprint.
 
-	It is important that your development team fully understand the goals of the application as a whole 
-	and for the specific feature they are working on. Nobody is more in-tune with that particular feature
-	than the assigned developer. They should understand the intent of the requirements. If something 
-	starts to not make sense, it is often developers who will be the first to let you know.
+	It is important that your development team fully understand the goals of the application
+	as a whole and for the specific feature they are working on. Nobody is more in-tune with 
+	that particular feature than the assigned developer. They should understand the intent 
+	of the requirements. If something starts to not make sense, it is often developers who 
+	will be the first to let you know.
 
-	During development, we use a platform called Hockey App. It allows us to privately and securely 
-	distribute the in-development version of the app to testers, clients, and other developers. Hockey 
-	automatically notifies users of new builds (so everyone is testing the latest & greatest), provides 
-	crash reporting, and can ensure only approved testers have access to your app. It is a great way to 
-	keep everyone up to speed on progress. During development, we try to update Hockey once or twice a week.
+	During development, we use a platform called Hockey App. It allows us to privately and
+	securely distribute the in-development version of the app to testers, clients, and 
+	other developers. Hockey  automatically notifies users of new builds (so everyone is 
+	testing the latest & greatest), provides  crash reporting, and can ensure only approved
+	testers have access to your app. It is a great way to keep everyone up to speed on 
+	progress. During development, we try to update Hockey once or twice a week.
 
 	- Testing
-	Most testing should be performed by non-developers or at least people who are not your app’s primary 
-	developer. This will help ensure a more genuine testing experience. There are several types of testing
-	that should occur during each sprint. These typically include the following:
-	#### Functional Testing - Testing to ensure the feature works as described in the requirements. 
-	Usually, a QA team will have a test plan with a list of actions and the desired app behavior.
-	#### Usability Testing - Testing to ensure the feature is user-friendly and is as intuitive as possible. 
-	Often it is helpful to bring in new testers for a “first-use” experience during this step.
-	#### Performance Testing - Your app might work perfectly, but if it takes 20 seconds to display a s
-	imple list, nobody is going to use it. Performance testing is typically more important in later
-	sprints, but keep an eye on the app’s responsiveness as you move along.
-	#### Fit and Finish Testing - Just because the design phase is complete past, doesn't mean you can 
-	lock your designers in a closet. Designers should review each feature and ensure that their vision 
-	was implemented as described in the design. This is another reason why having one agency for both 
-	design and development is so beneficial.
-	#### Regression Testing - Remember that one feature from the previous sprint? Don’t assume it still 
-	works, just because you tested it last month. Good QA teams will have a list of tests to perform at 
-	the end of each sprint, which will include tests from previous sprints.
-	#### Device-Specific Testing - There are tens of thousands of device and operating system combinations 
-	in the world. When testing, make sure you try out your app on numerous screen sizes and OS versions. 
-	There are tools that can help automate this, such as Google’s Firebase, but always test the app on at 
-	least a handful of physical devices.
-	#### User Acceptance Testing - This is testing performed by either the app owner or future app users. 
-	Remember who you are building this app for and get their feedback throughout the process. If a feature 
-	passes all the above tests, but fails this one, what use is it?
+	Most testing should be performed by non-developers or at least people who are not your 
+	app’s primary 	developer. This will help ensure a more genuine testing experience. There 
+	are several types of testing that should occur during each sprint. These typically include 
+	the following:
+	
+	* Functional Testing - Testing to ensure the feature works as described in the 
+	requirements. 	Usually, a QA team will have a test plan with a list of actions and the 
+	desired app behavior.
+	* Usability Testing - Testing to ensure the feature is user-friendly and is as 
+	intuitive as possible. 	Often it is helpful to bring in new testers for a “first-use” 
+	experience during this step.
+	* Performance Testing - Your app might work perfectly, but if it takes 20 seconds to 
+	display a simple list, nobody is going to use it. Performance testing is typically more 
+	important in later sprints, but keep an eye on the app’s responsiveness as you move along.
+	* Fit and Finish Testing - Just because the design phase is complete past, doesn't mean 
+	you can  lock your designers in a closet. Designers should review each feature and ensure
+	that their vision was implemented as described in the design. This is another reason why having
+	one agency for both design and development is so beneficial.
+	* Regression Testing - Remember that one feature from the previous sprint? Don’t assume
+	it still  works, just because you tested it last month. Good QA teams will have a list of
+	tests to perform at the end of each sprint, which will include tests from previous sprints.
+	* Device-Specific Testing - There are tens of thousands of device and operating system
+	combinations in the world. When testing, make sure you try out your app on numerous screen
+	sizes and OS versions. There are tools that can help automate this, such as Google’s Firebase,
+	but always test the app on at least a handful of physical devices.
+	* User Acceptance Testing - This is testing performed by either the app owner or future
+	app users. Remember who you are building this app for and get their feedback throughout 
+	the process. If a feature  passes all the above tests, but fails this one, what use is it?
 
-	As problems are discovered in this phase, reassign tasks back to developers so that the problems can be 
-	resolved and the issues closed out. Once testing has been completed and each task is done, move on to review.
+	As problems are discovered in this phase, reassign tasks back to developers so that the
+	problems can be  resolved and the issues closed out. Once testing has been completed and each
+	task is done, move on to review.
 
 ## Review
 At the end of each sprint talk with each of the stakeholders and determine how the sprint went. If there were difficulties, try to eliminate similar issues from future sprints. If things went well in one area, try to apply them elsewhere. No two projects are the exact same and everyone should always be advancing in their roles, so aim to improve, while you iterate. Once review is complete, begin again with the planning phase and repeat this process until the app is done!
