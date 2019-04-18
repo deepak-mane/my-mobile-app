@@ -149,17 +149,17 @@ There are numerous approaches, technologies, and programing languages that can b
 ### 1.] Front-end (the mobile app)
 For front-end development, there are basically 3 approaches. They are platform-specific native, cross-platform native, and hybrid. Here is a brief overview of each approach and some articles that delve into each with greater details.
 
-#### 1.) Platform-specific Native 
+#### 1.1 ) Platform-specific Native 
 	- Apps built with this approach are written separately for each mobile
 	platform. Code can’t be reused between Android and iOS, but these apps can be fully optimized
 	for each platform. The UI can look entirely native (so it will fit in with the OS) and the app
 	should work fluidly. This is often the most expensive approach, but is very tried and tested.
-#### 2.) Cross-platform Native 
+#### 1.2 ) Cross-platform Native 
 	- Apps built with this approach have some (or entirely shared) code, 
 	but still run natively. Common technologies used for this are React Native, Xamarin, and 
 	Native Script. This is a nice 	middle ground between the various approaches in that it is 
 	more cost-effective, but can still be optimized and styled for each platform.
-#### 3.) Hybrid 
+#### 1.3 ) Hybrid 
 	- Hybrid apps are built using web technologies (HTML, CSS, Javascript) and are 
 	installed via a native wrapper. This can be done using technologies such as Cordova, Phone Gap,
 	and Ionic. This option can be the cheapest, but also presents some very real difficulties.
@@ -195,7 +195,7 @@ The server is responsible for much of your app’s performance and scalability. 
 
 Sound mobile app development is an iterative process. You have likely heard the term “sprints” or “agile methodology”. This basically means that you break up all development work into smaller milestones and build your app in a series of cycles. Each cycle will include planning, development, testing, and review. There are entire books written on this process, so this article will just provide a brief overview of each step. If your company elects to use another process, these steps will be quite similar, but the order and length of each might vary.
 	
-#### 1.) Planning 
+### 1.) Planning 
 	The planning phase of a sprint involves dividing up the list of tasks to be implemented 
 	during the current iteration. Each task needs clearly defined requirements. Once these 
 	requirements are  understood by developers, they will often estimate the time needed to 
@@ -208,7 +208,7 @@ Sound mobile app development is an iterative process. You have likely heard the 
 	to go and update code in numerous places. Instead, well designed software can be changed in 
 	select places to make these sorts of sweeping changes.
 
-#### 2.) Development
+### 2.) Development
 	During the development phase your development team will begin implementing the styles and
 	functionality of your app. As they are completed, they are assigned back to a project 
 	manager or QA tester for review. Good project managers are able to fully optimize 
@@ -228,39 +228,39 @@ Sound mobile app development is an iterative process. You have likely heard the 
 	testers have access to your app. It is a great way to keep everyone up to speed on 
 	progress. During development, we try to update Hockey once or twice a week.
 
-#### 3.) Testing
+### 3.) Testing
 	Most testing should be performed by non-developers or at least people who are not your 
 	app’s primary 	developer. This will help ensure a more genuine testing experience. There 
 	are several types of testing that should occur during each sprint. These typically include 
 	the following:
 	
- ##### 3.1) Functional Testing 
+ #### 3.1) Functional Testing 
 	- Testing to ensure the feature works as described in the 
 	requirements. 	Usually, a QA team will have a test plan with a list of actions and the 
 	desired app behavior.
- ##### 3.2) Usability Testing 
+ #### 3.2) Usability Testing 
 	- Testing to ensure the feature is user-friendly and is as 
 	intuitive as possible. 	Often it is helpful to bring in new testers for a “first-use” 
 	experience during this step.
- ##### 3.3) Performance Testing 
+ #### 3.3) Performance Testing 
 	- Your app might work perfectly, but if it takes 20 seconds to 
 	display a simple list, nobody is going to use it. Performance testing is typically more 
 	important in later sprints, but keep an eye on the app’s responsiveness as you move along.
- ##### 3.4) Fit and Finish Testing 
+ #### 3.4) Fit and Finish Testing 
 	- Just because the design phase is complete past, doesn't mean 
 	you can  lock your designers in a closet. Designers should review each feature and ensure
 	that their vision was implemented as described in the design. This is another reason why having
 	one agency for both design and development is so beneficial.
- ##### 3.5) Regression Testing 
+ #### 3.5) Regression Testing 
 	- Remember that one feature from the previous sprint? Don’t assume
 	it still  works, just because you tested it last month. Good QA teams will have a list of
 	tests to perform at the end of each sprint, which will include tests from previous sprints.
- ##### 3.6) Device-Specific Testing 
+ #### 3.6) Device-Specific Testing 
 	- There are tens of thousands of device and operating system
 	combinations in the world. When testing, make sure you try out your app on numerous screen
 	sizes and OS versions. There are tools that can help automate this, such as Google’s Firebase,
 	but always test the app on at least a handful of physical devices.
- ##### 3.7) User Acceptance Testing 
+ #### 3.7) User Acceptance Testing 
 	- This is testing performed by either the app owner or future
 	app users. Remember who you are building this app for and get their feedback throughout 
 	the process. If a feature  passes all the above tests, but fails this one, what use is it?
