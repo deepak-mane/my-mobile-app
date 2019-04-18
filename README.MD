@@ -13,7 +13,7 @@ This is where having some understanding of what mobile apps can do is extremely 
 ->Goal Review
 ->Output: Summarize into Report 
 ### 1.] identifying your competition
-	* Once you have an idea, you need to plan for your app’s success by identifying your competition. 
+* Once you have an idea, you need to plan for your app’s success by identifying your competition. 
 	Check to see if any other apps serve a similar purpose and look for the following
 	- No. of installs - See if anyone is using these apps.
 	- Ratings & Reviews - See if people like these apps and what they like/dislike about them.
