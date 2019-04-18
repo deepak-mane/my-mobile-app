@@ -167,17 +167,17 @@ For front-end development, there are basically 3 approaches. They are platform-s
 ### 2.] Back-end (Web API & Server)
 The server is responsible for much of your app’s performance and scalability. The technologies used here are similar to those used to power web-based applications. Here are a few things you have to decide before writing code:
 
-#### 1.) Language 
+#### 2.1 ) Language 
 	- There are dozens of languages that can be used to build your API. Common languages used
 	are Java, C#, Go-lang, javascript, PHP, and Python. Most languages also have numerous frameworks that
 	can be utilized.
-#### 2.) Database 
+#### 2.2 ) Database 
 	- There are two main types of modern databases. SQL and noSQL. SQL is more traditional 
 	and the best choice in almost all cases. Common SQL implementations include MSSQL, MYSQL, and 
 	PostgreSQL. In addition to selecting a database engine, you have to design your particular database 
 	schema. Having reliable and well organized data is crucial to your long term success. So, make sure 
 	this is well thought out.
-#### 3.) Hosting Environment (Infrastructure) 
+#### 2.3 ) Hosting Environment (Infrastructure) 
 	- In this step you need to decide where and how your API and 
 	database will be hosted. Decisions made here will help determine the hosting costs, scalability, 
 	performance, and reliability of your application. Common hosting providers include Amazon AWS and
@@ -234,33 +234,33 @@ Sound mobile app development is an iterative process. You have likely heard the 
 	are several types of testing that should occur during each sprint. These typically include 
 	the following:
 	
- ##### 1.Functional Testing 
+ ##### 3.1) Functional Testing 
 	- Testing to ensure the feature works as described in the 
 	requirements. 	Usually, a QA team will have a test plan with a list of actions and the 
 	desired app behavior.
- ##### 2.Usability Testing 
+ ##### 3.2) Usability Testing 
 	- Testing to ensure the feature is user-friendly and is as 
 	intuitive as possible. 	Often it is helpful to bring in new testers for a “first-use” 
 	experience during this step.
- ##### 3.Performance Testing 
+ ##### 3.3) Performance Testing 
 	- Your app might work perfectly, but if it takes 20 seconds to 
 	display a simple list, nobody is going to use it. Performance testing is typically more 
 	important in later sprints, but keep an eye on the app’s responsiveness as you move along.
- ##### 4.Fit and Finish Testing 
+ ##### 3.4) Fit and Finish Testing 
 	- Just because the design phase is complete past, doesn't mean 
 	you can  lock your designers in a closet. Designers should review each feature and ensure
 	that their vision was implemented as described in the design. This is another reason why having
 	one agency for both design and development is so beneficial.
- ##### 5.Regression Testing 
+ ##### 3.5) Regression Testing 
 	- Remember that one feature from the previous sprint? Don’t assume
 	it still  works, just because you tested it last month. Good QA teams will have a list of
 	tests to perform at the end of each sprint, which will include tests from previous sprints.
- ##### 6.Device-Specific Testing 
+ ##### 3.6) Device-Specific Testing 
 	- There are tens of thousands of device and operating system
 	combinations in the world. When testing, make sure you try out your app on numerous screen
 	sizes and OS versions. There are tools that can help automate this, such as Google’s Firebase,
 	but always test the app on at least a handful of physical devices.
- ##### 7.User Acceptance Testing 
+ ##### 3.7) User Acceptance Testing 
 	- This is testing performed by either the app owner or future
 	app users. Remember who you are building this app for and get their feedback throughout 
 	the process. If a feature  passes all the above tests, but fails this one, what use is it?
