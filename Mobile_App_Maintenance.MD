@@ -30,9 +30,11 @@ To solve your every concern or confusions of startups and established companies 
 
 ## Mobile Application Maintenance & Support Services Model
  ### Yearly maintenance contract
-We provide technical support, bug fixing, and corrective maintenance, minor and major version upgrades, etc.
+To provide technical support, bug fixing, and corrective maintenance, minor and major version upgrades, etc.
  ### Part Time /Full-Time Person
-We have committed support staff for all maintenance work including app monitoring, app upgrades, and enhancements.
+To provide committed support staff for all maintenance work including app monitoring, app upgrades, and enhancements.
  ### Scope Based Maintenance
-In this model, clients decide the scope of work they have planned, and we will work as per the mobile app maintenance contract upon scope based on a fix or hourly cost.
+In this model, clients decide the scope of work they have planned, and to work as per the mobile app maintenance contract upon scope based on a fix or hourly cost.
+
+
 
