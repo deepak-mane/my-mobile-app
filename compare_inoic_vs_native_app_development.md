@@ -4,7 +4,7 @@
 
 |S.no | Characteristic | Ionic| Native |
 | :---| :---      | :--- |:--- |
-
+| CONTROL FLOW       | CORE GUIDELINES   |      | |
 | CONTROL FLOW       | CORE GUIDELINES   |      | |
 
 
