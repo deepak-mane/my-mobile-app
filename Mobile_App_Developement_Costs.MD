@@ -38,9 +38,11 @@ The design is the crucial part for any of the app and it requires clear planning
 If you want to hire a professional designer you need to be ready to pay $150 per hour or even more. On the other hand; the less experienced designer can take only $45/ hour.
 
 Moreover, there are some other factors affects the cost while designing the app
+
     - In which country the company is located
     - Complexity
     - Platforms: iOS or Android
+    
 
     
   
