@@ -1,4 +1,4 @@
-
+# Which Mobile App Developement Platform to choose ? (Inoic Vs Native)
 
 If you want a faster loading native application all you need is enough budget and time to hire native app developers for separate platforms and then go with native application development, otherwise ionic framework is the best option for hybrid app development.
 
