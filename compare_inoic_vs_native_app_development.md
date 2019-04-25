@@ -1,7 +1,16 @@
 
 
+
+
+|S.no | Characteristic | Ionic| Native |
+| :---| :---      | :--- |:--- |
+
+| CONTROL FLOW       | CORE GUIDELINES   |      | |
+
+
+
 Take a Glance Ionic vs Native App Development Takeaways
-S.no	Characteristics	Ionic	Native
+			Native
 1.	Languages required	HTML, CSS and JavaScript	Objective-C, Swift,C#, Java (android)
 2.	Ability to work on other platforms	Ionic is able to run a single code on various platforms.	To run on another platform a new code is required to build from the scratch.
 3.	UI and Themes	Ionic has a whole set of UI and Themes to select from.	The developer has to code UI as per the platform.
