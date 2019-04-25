@@ -44,5 +44,39 @@ Moreover, there are some other factors affects the cost while designing the app
     - Platforms: iOS or Android
     
 
-    
+Not all app types are the same. So, you have to take into consideration all the types of the app while considering the cost of app development.
+
+#### Native apps
+    The native apps development cost is higher than other hybrid apps because of the number of developers involved in it.
+    Moreover, it also takes a longer time to develop because of its functionalities and features it provides. Business apps, entertainment apps, and education apps are mostly built on the native platform.
+
+    For example, the cost of iOS app development is higher than Android.  Because, the system which the iOS developers uses cost way to high then the Android.  So, based on that the hourly rate of iOS costs more.
+
+    In addition, it also takes more time to approve your iOS app in the App store due to more rules and restriction as compared to android.
+
+#### Hybrid apps
+    While cross-platform app development is best suited to reach a bigger audience from the start.
+    Hybrid app development cost is less because the team involved in development is less than the native app. In addition, it needs single code that can work for all platforms so it takes less time to code for the entire platform.
+
+    The performance of hybrid apps is not up to the level of native apps. Hence, these kinds of apps are suitable for small and medium communication apps, lifestyle apps, and game apps.
+
+#### Basic Functionality Apps
+    Basic apps are fast to develop and include few or even no features at all.
+    These apps frequently show data on various “lists.” Usually, they include drop-down menus which let the user make a choice.
+
+    Calendar, diet planners, and email apps are certain examples of such kind of apps. The user is directed to the second and more specific list once he has chosen an option. The cost to build an app of this category ranges between $5,000 and $25,000.
+
+#### Database Driven Apps
+    Contrasting the first app category, these apps store their data on remote data servers. The app owners can transmit the data to the client side and server side.
+    Moreover, these apps let their users make searches and input data to generate the preferred outcomes.
+
+    Connecting the app to remote web servers needs more complicated coding and an API, thus Cost of creating an app of this category is quite high and it ranges between $15,000 & $50,000.
+
+#### Game Apps
+    This is the toughest app category for calculating the development cost. These kinds of apps include simple PONG type functionality all incline to composite virtual reality games.
+    For instance, the developer of Flappy Hen game which is a clone of Flappy Bird, it would cost around $6, 00,000-$7,00,000.
+
+    A racing game, which uses a gyroscope, can cost near about $150,000.
+
+    Hence, Cost of making an app in the gaming category would range from $60,000 to $250,000.
   
