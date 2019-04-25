@@ -30,7 +30,7 @@ If you are planning to start the marketing of your app after its launch then you
 |Campaign Reporting|
 
 ## 2. App Launch
-Search Engines, your target audience, and users are unaware of your app. We will plan out the right app launch strategy to broadcast your app in the market place.
+Search Engines, your target audience, and users are unaware of your app. Always plan out the right app launch strategy to broadcast your app in the market place.
 
 |App Launch|
 | :---|
@@ -46,7 +46,8 @@ Search Engines, your target audience, and users are unaware of your app. We will
 |Renew & Maintain a presence on different Social Media|
 
 ## 3. App Post Launch
-Our marketing team's work goes full throttle from here on. We keep optimizing marketing strategies and new ways to reach users and reviewers.
+Marketing team's work goes full throttle from here on. Always keep optimizing marketing strategies and new ways to reach users and reviewers.
+
 |App Post Launch|
 | :---|
 |Continuing PR Outreach|
