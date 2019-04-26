@@ -32,7 +32,7 @@ App development is not an easy task and it requires certain aspects to consider 
 |The process of app development|
 |Cost of app maintenance|
 
-### Type of App
+### 1. Type of App
 The design is the crucial part for any of the app and it requires clear planning.For mobile app design, you need to consider some of the important aspects like; visual design, user interfaces, UX, logos, icons, branding, wireframe, etc.
 
 If you want to hire a professional designer you need to be ready to pay $150 per hour or even more. On the other hand; the less experienced designer can take only $45/ hour.
@@ -58,7 +58,7 @@ Not all app types are the same. So, you have to take into consideration all the 
 | --- | 
 |This is the toughest app category for calculating the development cost. These kinds of apps include simple PONG type functionality all incline to composite virtual reality games. For instance, the developer of Flappy Hen game which is a clone of Flappy Bird, it would cost around $6, 00,000-$7,00,000. A racing game, which uses a gyroscope, can cost near about $150,000. Hence, Cost of making an app in the gaming category would range from $60,000 to $250,000.|
 
-## Mobile App Features Add Extra Costs to the App Development
+### 2. Mobile App Features Add Extra Costs to the App Development
  Mobile App development is a complex process, and it mostly depends on the features set and design required. The cost of the app development will increase after adding the new features:
 
 | App Features|||
@@ -71,3 +71,16 @@ Not all app types are the same. So, you have to take into consideration all the 
 |Device synchronization|Multiple language support|Offline mode|
 |Database|Data encryption|Phone sensors usage|
 
+### 3. Location Of The Company Affect The App Development Cost
+### 4. What Sources Should I Hire For App Development?
+### 5. Mobile App Development Stages
+
+| Stages|||
+| --- | --- | --- |
+| Project Design Sprints| You need to discuss each and every element of your app along with the functionality of each element.| This step takes one to two weeks.|
+| Building Wireframes | The major step is to convert your idea into a mobile app; you need to explain your thinking to the designer and then a wireframe will be developed.The wireframe will have further changes as per your requirements.|This step takes up to 3 weeks.|
+| App Design | Once the wireframe is finalized the designer will begin its work on creating mobile app designs. After each screen design, your suggestions will be asked. | The designing step will take 3 weeks.|
+| App Development | Now, the major step begins. Your dream will be converted into reality as per your app design, your requirements and your app ideas. | This step will take up to 8 weeks.|
+| App Launch | After the app development process is completed its time to launch the project to let your audience know about your mobile app products. | Your mobile app will be uploaded to Google Play store and Apple app store and this will take one week. |
+
+### 6. Cost Of App Maintenance
