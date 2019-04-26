@@ -285,23 +285,25 @@ At this point your app should be fully testable and feature complete (at least f
 
 #### 1. ) Focus Groups
 	Focus groups involve conducting an interview with a tester or group of testers who have never 
-	seen the app before and conduct an interview. You want to understand who these testers are, how they 
-	learn about new apps, and if they use similar apps already. Try to get some background info out of them 
-	before even getting into your product. Next, let your testers begin using your app. They should not 
-	be coached during this process. Instead, let them use the app as if they had just found it in the app
-	store. See how they use the app, and look for common frustrations. After they are done using the app,
-	get their feedback. Remember to not be too strongly guided by any one tester, but combine feedback 
-	and make intelligent decisions using all available feedback.
+	seen the app before and conduct an interview. You want to understand who these testers are, 
+	how they learn about new apps, and if they use similar apps already. Try to get some 
+	background info out of them before even getting into your product. Next, let your testers 
+	begin using your app. They should not be coached during this process. Instead, let them use
+	the app as if they had just found it in the app	store. See how they use the app, and look
+	for common frustrations. After they are done using the app, get their feedback. Remember
+	to not be too strongly guided by any one tester, but combine feedback and make intelligent
+	decisions using all available feedback.
 
 #### 2. ) Beta Testing
-	In addition to, or instead of focus groups, you can do a beta launch of your app. Beta tests involve
-	getting a group of testers to user your app in the real world. They use the app just as if it had 
-	launched, but in much smaller numbers. Often these beta testers will be power users, early adopters,
-	and possibly your best customers. Make sure they feel valued and respected. Give them ample 
-	opportunities to provide feedback and let them know when and how you are changing the app. Also, beta 
-	testing is a great time to see 	how your app performs on various devices, locations, operating systems,
-	and network conditions. It is imperative that you have sound crash reporting for this step. It does 
-	you no good if something goes wrong, but is not discovered and diagnosed.
+	In addition to, or instead of focus groups, you can do a beta launch of your app. Beta 
+	tests involve getting a group of testers to user your app in the real world. They use the
+	app just as if it had launched, but in much smaller numbers. Often these beta testers 
+	will be power users, early adopters, and possibly your best customers. Make sure they feel
+	valued and respected. Give them ample opportunities to provide feedback and let them know 
+	when and how you are changing the app. Also, beta testing is a great time to see how your
+	app performs on various devices, locations, operating systems, and network conditions. It
+	is imperative that you have sound crash reporting for this step. It does you no good if 
+	something goes wrong, but is not discovered and diagnosed.
 
 ## Refinement
 After these extended review periods, it is common to have a final development sprint to address any newly discovered issues. Continue beta testing during this process and ensure that your crash and issue reports are declining. Once you have the all-clear from your testers, it is time to begin preparing for deployment.
