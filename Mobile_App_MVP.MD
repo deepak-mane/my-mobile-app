@@ -7,3 +7,10 @@
   Most common reason for this is they don’t converse with the potential audience to recognize how much they are interested in the product. Direct releasing your final product would surely encounter such other risks.
   
   Thus, instead of releasing a full-featured mobile app you can opt for building an MVP App, which will significantly save you from future defeat by helping you to find out, what are the risks associated with your MVP App Development, at comparatively low cost.
+
+## Why MVP App Development?
+
+||||
+|---|---|---|
+||||
+||||
