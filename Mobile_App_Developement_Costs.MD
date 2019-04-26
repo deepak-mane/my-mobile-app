@@ -73,6 +73,16 @@ Not all app types are the same. So, you have to take into consideration all the 
 
 ### 3. Location Of The Company Affect The App Development Cost
 ### 4. What Sources Should I Hire For App Development?
+
+| App Development Through | Features | 
+| --- | --- |
+| App Development Company | By hiring app development agencies, you get a dedicated development team includes a Business analyst, a designer, all type of developers, a project manager, Testing & Marketing team, all from one place. Such app development firms can charge the average cost of creating an app between $25/hour and $150/hour. |
+| Hire In-house Developers | You can also think to hire in-house developers, product managers, and designers who will help you to build your own app.
+On the other hand, you could also prefer to hire a developer who will be able to perform all three roles. |
+| Hiring a full-time and quality developer | As global competition enhances, hiring a full-time and quality developer may lead to an immensely costly and time-consuming process. Further, if you desire to enlarge your app you will require hiring some more in-house developers. |
+| Hiring Freelancers | You can hire Mobile app freelancers from conventional freelance platforms, like freelancer.com, upwork.com, and guru.com.The problem is that you cannot expect professionalism and on-time delivery, as most of the mobile app freelancers have several works in their pipelines.|
+
+
 ### 5. Mobile App Development Stages
 
 | Stages| Description| Duration to Complete|
