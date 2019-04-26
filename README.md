@@ -4,7 +4,7 @@ This mobile app development process typically includes idea, strategy, design, d
 |App Dev Process | |
 | :---| :--- |
 |Idea| |
-|Strategy| 	1. Identifying Competion. 2. Monetization 3. Marketing 4. MVP|
+|Strategy| <ol><li>Identifying Competion</li><li>Monetization</li><li>Marketing</li><li>MVP</li></ol>|
 |User-Experience Design| 1. Information Architecture 2. Wireframes  3. Workflows 4. Click-through models |
 |User-Interface Design| 1. Style guides 2. Rendered Designs 3. Rendered Click-through models |
 |Design-to-Development Handoff||
