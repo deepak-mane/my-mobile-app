@@ -60,11 +60,5 @@ Once you have launched the MVP Mobile app, further there are three approaches yo
 
 |![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Continue Development and Perk Up` | ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Perform Amendments` | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `End The Project`|
 |---|---|---|
-| ```diff + *If your startup hypothesis worked out well, you can keep working on an original plan, developing an application and making improvements based on feedback and results.* ```| + *If your MVP Mobile apps fails to acquire enough customer satisfaction, you can try some other approaches. Finding out what’s wrong with your app at this step is quite viable.* | - *If an MVP Mobile apps turn your hypothesis erroneous in the root of it, your attempts to recover some functions are not going to change the fact. There may be a defect in your idea itself, thus it is preferred to shift to other projects.* |
-
-
-
-
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
-- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
-- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
+|  *If your startup hypothesis worked out well, you can keep working on an original plan, developing an application and making improvements based on feedback and results.* | + *If your MVP Mobile apps fails to acquire enough customer satisfaction, you can try some other approaches. Finding out what’s wrong with your app at this step is quite viable.* | - *If an MVP Mobile apps turn your hypothesis erroneous in the root of it, your attempts to recover some functions are not going to change the fact. There may be a defect in your idea itself, thus it is preferred to shift to other projects.* |
+ 
