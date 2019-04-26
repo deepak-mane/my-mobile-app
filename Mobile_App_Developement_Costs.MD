@@ -48,12 +48,7 @@ Not all app types are the same. So, you have to take into consideration all the 
 
 | Native apps     | Hybrid apps |
 | ---      | ---       |
-| The native apps development cost is higher than other hybrid apps because of the number of developers involved in it.
-    Moreover, it also takes a longer time to develop because of its functionalities and features it provides. Business apps, entertainment apps, and education apps are mostly built on the native platform.
-    For example, the cost of iOS app development is higher than Android.  Because, the system which the iOS developers uses cost way to high then the Android.  So, based on that the hourly rate of iOS costs more.
-    In addition, it also takes more time to approve your iOS app in the App store due to more rules and restriction as compared to android.|    While cross-platform app development is best suited to reach a bigger audience from the start.
-    Hybrid app development cost is less because the team involved in development is less than the native app. In addition, it needs single code that can work for all platforms so it takes less time to code for the entire platform.
-    The performance of hybrid apps is not up to the level of native apps. Hence, these kinds of apps are suitable for small and medium communication apps, lifestyle apps, and game apps.|
+| The native apps development cost is higher than other hybrid apps because of the number of developers involved in it. Moreover, it also takes a longer time to develop because of its functionalities and features it provides. Business apps, entertainment apps, and education apps are mostly built on the native platform.For example, the cost of iOS app development is higher than Android.  Because, the system which the iOS developers uses cost way to high then the Android.  So, based on that the hourly rate of iOS costs more. In addition, it also takes more time to approve your iOS app in the App store due to more rules and restriction as compared to android.|    While cross-platform app development is best suited to reach a bigger audience from the start. Hybrid app development cost is less because the team involved in development is less than the native app. In addition, it needs single code that can work for all platforms so it takes less time to code for the entire platform. The performance of hybrid apps is not up to the level of native apps. Hence, these kinds of apps are suitable for small and medium communication apps, lifestyle apps, and game apps.|
 |||
 |||
 
