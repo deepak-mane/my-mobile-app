@@ -75,7 +75,7 @@ Not all app types are the same. So, you have to take into consideration all the 
 ### 4. What Sources Should I Hire For App Development?
 ### 5. Mobile App Development Stages
 
-| Stages|||
+| Stages| Description| Duration to Complete|
 | --- | --- | --- |
 | Project Design Sprints| You need to discuss each and every element of your app along with the functionality of each element.| This step takes one to two weeks.|
 | Building Wireframes | The major step is to convert your idea into a mobile app; you need to explain your thinking to the designer and then a wireframe will be developed.The wireframe will have further changes as per your requirements.|This step takes up to 3 weeks.|
@@ -84,3 +84,16 @@ Not all app types are the same. So, you have to take into consideration all the 
 | App Launch | After the app development process is completed its time to launch the project to let your audience know about your mobile app products. | Your mobile app will be uploaded to Google Play store and Apple app store and this will take one week. |
 
 ### 6. Cost Of App Maintenance
+Once you have published your app in play store or app store you should be prepared for the expenses of app maintenance if you want to get more download for your app. The average cost of app maintenance per year is about 20% of the development of the app.  For example, if your app development cost is $100, 000. Then you have to be prepared for more $20,000 per year. In addition, some features cost you more,
+
+| Type of Cost | Amount | 
+| --- | --- |
+| Cost of servers | $20-$60/month |
+| Push notification | $10/month |
+|Third party APIs | |
+|Bug solving | |
+|Payment Gateways | Up to $140/month|
+|App store developers fee | $25 at Google play and $99 at App store|
+
+
+
