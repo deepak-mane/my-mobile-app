@@ -7,7 +7,7 @@ This mobile app development process typically includes idea, strategy, design, d
 |[**Strategy**](https://github.com/deepak-mane/my-mobile-app/blob/master/README.md#strategy)| *<ol><li>Identifying Competion</li><li>Monetization</li><li>Marketing</li><li>MVP</li></ol>*|
 |[**User-Experience Design**](https://github.com/deepak-mane/my-mobile-app/blob/master/README.md#user-experience-design)|  *<ol><li>Information Architecture</li><li> Wireframes</li><li>Workflows</li><li>Click-through models</li></ol>*|
 |[**User-Interface Design**](https://github.com/deepak-mane/my-mobile-app/blob/master/README.md#user-interface-design)| *<ol><li>Style guides</li><li>Rendered Designs</li><li>Rendered Click-through models</li></ol>*|
-|[**Design-to-Development Handoff**](https://github.com/deepak-mane/my-mobile-app/blob/master/README.md##design-to-development-handoff)||
+|[**Design-to-Development Handoff**](https://github.com/deepak-mane/my-mobile-app/blob/master/README.md#design-to-development-handoff)||
 |[**High-level Technical Design**](https://github.com/deepak-mane/my-mobile-app/blob/master/README.md#high-level-technical-design)| *<ol><li>Front End</li><li>Back End</li></ol>*|
 |[**Development & Iteration**](https://github.com/deepak-mane/my-mobile-app/blob/master/README.md#development--iteration)| *<ol><li>Planning</li><li>Development</li><li>Testing</li></ol>*|
 |[**Review**](https://github.com/deepak-mane/my-mobile-app/blob/master/README.md#review)||
