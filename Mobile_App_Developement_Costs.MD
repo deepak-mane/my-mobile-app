@@ -72,13 +72,26 @@ Not all app types are the same. So, you have to take into consideration all the 
 |Database|Data encryption|Phone sensors usage|
 
 ### 3. Location Of The Company Affect The App Development Cost
+    
+There are many companies worldwide providing app development and they claim to deliver the best mobile app solution.
+The most common misnomer around these companies is that experienced and big companies are responsible for the high quality product. New and small companies are not able to cater the best results. You can get the same quality of work from a different company and from another country in a considerably low app development cost.
+The Approximate Hourly Rates Of The Different Countries.
+| Country | Android ($/hour) | iOS ($/Hour)|
+| --- | --- | --- |
+|North America|150|168|
+|South America|43|34|
+|India|30|25|
+|UK	|70|70|
+|Australia|110|110|
+|Eastern Europe|35|35|
+
+
 ### 4. What Sources Should I Hire For App Development?
 
 | App Development Through | Features | 
 | --- | --- |
 | App Development Company | By hiring app development agencies, you get a dedicated development team includes a Business analyst, a designer, all type of developers, a project manager, Testing & Marketing team, all from one place. Such app development firms can charge the average cost of creating an app between $25/hour and $150/hour. |
-| Hire In-house Developers | You can also think to hire in-house developers, product managers, and designers who will help you to build your own app.
-On the other hand, you could also prefer to hire a developer who will be able to perform all three roles. |
+| Hire In-house Developers | You can also think to hire in-house developers, product managers, and designers who will help you to build your own app. On the other hand, you could also prefer to hire a developer who will be able to perform all three roles. |
 | Hiring a full-time and quality developer | As global competition enhances, hiring a full-time and quality developer may lead to an immensely costly and time-consuming process. Further, if you desire to enlarge your app you will require hiring some more in-house developers. |
 | Hiring Freelancers | You can hire Mobile app freelancers from conventional freelance platforms, like freelancer.com, upwork.com, and guru.com.The problem is that you cannot expect professionalism and on-time delivery, as most of the mobile app freelancers have several works in their pipelines.|
 
