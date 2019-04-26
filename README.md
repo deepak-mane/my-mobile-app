@@ -3,19 +3,19 @@ This mobile app development process typically includes idea, strategy, design, d
 
 |App Dev Process | |
 | :---| :--- |
-|Idea| |
-|Strategy| <ol><li>Identifying Competion</li><li>Monetization</li><li>Marketing</li><li>MVP</li></ol>|
-|User-Experience Design| 1. Information Architecture 2. Wireframes  3. Workflows 4. Click-through models |
-|User-Interface Design| 1. Style guides 2. Rendered Designs 3. Rendered Click-through models |
-|Design-to-Development Handoff||
-|High-level Technical Design |1. Front End 2. Back End|
-|Development & Iteration|1. Planning 2. Development 3. Testing|
-|Review||
-|Extended Review|1. Focus Groups 2. Beta Testing|
-|Refinement||
-|Deployment|1. Web API (Server) 2. App Stores|
-|Monitoring|1. Crashes 2. Analytics 3. Performance 4. App Store Management|
-|Further Iteration and Improvement||
+|**Idea**| |
+|**Strategy**| *<ol><li>Identifying Competion</li><li>Monetization</li><li>Marketing</li><li>MVP</li></ol>*|
+|**User-Experience Design**| 1. Information Architecture 2. Wireframes  3. Workflows 4. Click-through models |
+|**User-Interface Design**| 1. Style guides 2. Rendered Designs 3. Rendered Click-through models |
+|**Design-to-Development Handoff**||
+|**High-level Technical Design**|1. Front End 2. Back End|
+|**Development & Iteration**|1. Planning 2. Development 3. Testing|
+|**Review**||
+|**Extended Review**|1. Focus Groups 2. Beta Testing|
+|**Refinement**||
+|**Deployment**|1. Web API (Server) 2. App Stores|
+|**Monitoring**|1. Crashes 2. Analytics 3. Performance 4. App Store Management|
+|**Further Iteration and Improvement**||
 
 | Format        | Syntax      | Example |
 | ------|-----|-----|
