@@ -199,7 +199,7 @@ The server is responsible for much of your app’s performance and scalability. 
 
 Sound mobile app development is an iterative process. You have likely heard the term “sprints” or “agile methodology”. This basically means that you break up all development work into smaller milestones and build your app in a series of cycles. Each cycle will include planning, development, testing, and review. There are entire books written on this process, so this article will just provide a brief overview of each step. If your company elects to use another process, these steps will be quite similar, but the order and length of each might vary.
 	
-[Mobile App Development Costs ](https://github.com/deepak-mane/my-mobile-app/blob/master/Mobile_App_Developement_Costs.MD#4-what-sources-should-i-hire-for-app-development)
+[Mobile App Development Costs ](https://github.com/deepak-mane/my-mobile-app/blob/master/Mobile_App_Developement_Costs.MD)
 
 ### 1.) Planning 
 	The planning phase of a sprint involves dividing up the list of tasks to be implemented 
