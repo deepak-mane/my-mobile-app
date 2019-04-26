@@ -9,7 +9,7 @@ This mobile app development process typically includes idea, strategy, design, d
 |[**User-Interface Design**](https://github.com/deepak-mane/my-mobile-app/blob/master/README.md#user-interface-design)| *<ol><li>Style guides</li><li>Rendered Designs</li><li>Rendered Click-through models</li></ol>*|
 |[**Design-to-Development Handoff**](https://github.com/deepak-mane/my-mobile-app/blob/master/README.md##design-to-development-handoff)||
 |[**High-level Technical Design**](https://github.com/deepak-mane/my-mobile-app/blob/master/README.md#high-level-technical-design)| *<ol><li>Front End</li><li>Back End</li></ol>*|
-|[**Development & Iteration**](https://github.com/deepak-mane/my-mobile-app/blob/master/README.md#development-&-iteration)| *<ol><li>Planning</li><li>Development</li><li>Testing</li></ol>*|
+|[**Development & Iteration**](https://github.com/deepak-mane/my-mobile-app/blob/master/README.md#development--iteration)| *<ol><li>Planning</li><li>Development</li><li>Testing</li></ol>*|
 |[**Review**](https://github.com/deepak-mane/my-mobile-app/blob/master/README.md#review)||
 |[**Extended Review**](https://github.com/deepak-mane/my-mobile-app/blob/master/README.md#extended-review)| *<ol><li>Focus Groups</li><li>Beta Testing</li></ol>*|
 |[**Refinement**](https://github.com/deepak-mane/my-mobile-app/blob/master/README.md#refinement)||
