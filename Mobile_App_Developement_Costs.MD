@@ -76,6 +76,7 @@ Not all app types are the same. So, you have to take into consideration all the 
 There are many companies worldwide providing app development and they claim to deliver the best mobile app solution.
 The most common misnomer around these companies is that experienced and big companies are responsible for the high quality product. New and small companies are not able to cater the best results. You can get the same quality of work from a different company and from another country in a considerably low app development cost.
 The Approximate Hourly Rates Of The Different Countries.
+
 | Country | Android ($/hour) | iOS ($/Hour)|
 | --- | --- | --- |
 |North America|150|168|
