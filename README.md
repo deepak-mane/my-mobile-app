@@ -57,7 +57,7 @@ This is where having some understanding of what mobile apps can do is extremely 
 	Assuming you have a reliable app development and app design team, your biggest hurdles will 
 	likely be driving app adoption
 
-[Mobile App Marketing Services](https://github.com/deepak-mane/my-mobile-app/blob/master/Mobile_App_Marketing_Services.MD#mobile-app-marketing-services)
+[Mobile App Marketing Services](https://github.com/deepak-mane/my-mobile-app/blob/master/Mobile_App_Marketing_Services.md#mobile-app-marketing-services)
 
 ### 4. ] Road Map (MVP)
 	The final stage of the strategy process is defining your app’s roadmap. The goal of this process 
@@ -70,7 +70,7 @@ This is where having some understanding of what mobile apps can do is extremely 
 	with your MVP, you can solicit feedback on what additional features are desired. App monitoring 
 	(covered later in this article) can also assist in this process.
 
-[Minimum Viable Product MVP](https://github.com/deepak-mane/my-mobile-app/blob/master/Mobile_App_MVP.MD#minimum-viable-productmvp)
+[Minimum Viable Product MVP](https://github.com/deepak-mane/my-mobile-app/blob/master/Mobile_App_MVP.md#minimum-viable-productmvp)
 
 ## User-Experience Design
 ->Wire Frames
@@ -216,7 +216,7 @@ The server is responsible for much of your app’s performance and scalability. 
 
 Sound mobile app development is an iterative process. You have likely heard the term “sprints” or “agile methodology”. This basically means that you break up all development work into smaller milestones and build your app in a series of cycles. Each cycle will include planning, development, testing, and review. There are entire books written on this process, so this article will just provide a brief overview of each step. If your company elects to use another process, these steps will be quite similar, but the order and length of each might vary.
 	
-[Mobile App Development Costs ](https://github.com/deepak-mane/my-mobile-app/blob/master/Mobile_App_Developement_Costs.MD)
+[Mobile App Development Costs ](https://github.com/deepak-mane/my-mobile-app/blob/master/Mobile_App_Developement_Costs.md)
 
 ### 1. ) Planning 
 	The planning phase of a sprint involves dividing up the list of tasks to be implemented 
