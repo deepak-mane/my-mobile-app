@@ -5,38 +5,17 @@ This mobile app development process typically includes idea, strategy, design, d
 | :---| :--- |
 |**Idea**| |
 |[**Strategy**](https://github.com/deepak-mane/my-mobile-app/blob/master/README.md#strategy)| *<ol><li>Identifying Competion</li><li>Monetization</li><li>Marketing</li><li>MVP</li></ol>*|
-|**User-Experience Design**| 1. Information Architecture 2. Wireframes  3. Workflows 4. Click-through models |
-|**User-Interface Design**| 1. Style guides 2. Rendered Designs 3. Rendered Click-through models |
-|**Design-to-Development Handoff**||
-|**High-level Technical Design**|1. Front End 2. Back End|
-|**Development & Iteration**|1. Planning 2. Development 3. Testing|
-|**Review**||
-|**Extended Review**|1. Focus Groups 2. Beta Testing|
-|**Refinement**||
-|**Deployment**|1. Web API (Server) 2. App Stores|
-|**Monitoring**|1. Crashes 2. Analytics 3. Performance 4. App Store Management|
-|**Further Iteration and Improvement**||
-
-| Format        | Syntax      | Example |
-| ------|-----|-----|
-| Italic  	| \*Text\* 	| *This is italic* 	|
-| Bold  	| \*\*Bold\*\* 	| **This is bold** 	|
-| Inline links 	| \[Description text\](url here) 	| A [link](http://www.github.com) 	|
-| Images 	| \![Caption\](url to img) 	| An image ![image](http://i.imgur.com/hRLuez2.png) 	|
-| Link+images 	| \[\![Caption\](url to img)\](url to a page)\] 	| Click me [![me](http://i.imgur.com/hRLuez2.png)](https://www.youtube.com) 	|
-| Footnotes  	| I have more \[^1\] to say.   \[^1\]: say it down here. 	| <a href="#section1">Hey,Please read the note below this table.  	|
-| Line breaks 	| Double space + enter 	|  	|
-| Unordered Lists 	| \* Item1     \*Item 2 	| <ul><li>item1</li><li>item2</li><li>item3</li><li>item4</li></ul> 	|
-| Ordered Lists 	| 1. Item a    2. Item b 	| <ol><li>itema</li><li>itemb</li><li>itemc</li><li>itemd</li></ol>  	|
-| Mixed Lists 	| 1. Item 1      * item 1a 	|  <ol><li>itema</li></ol><ul><li> item1</li></ul>	|
-| Block quote 	| \> Quoted text 	|  <blockquote>Stay Hungry Stay Foolish</blockquote> 	|
-| Preformatted 	| Begin each line with,two spaces or more to,make text look,e x a c t l y,like,you,type i,t. 	|   Begin each line with,two spaces or more to,make text look,e x a c t l y,like,you,type i,t. 	|
-| Code 	| \`Insert Code\` 	| `cout<<"Hello world";` 	|
-| Code block/ Syntax highlighting 	| \`\`\`insert code\`\`\` 	|  <a href="#section1">Hey,Please read the note below this table. 	|
-| Headers 	| \#, \##, \###, \####, \#####, \###### (from h1 to h6) 	|  <h3>This is a h3 header</h3>	|
-| Strike through 	| \~~Insert text here\~~ 	| ~~I am dead~~ 	|
-| Tables 	| \| Tables   \|      Are      \|  Cool \| \|\----------\|\:\-------------\:\|------\:\| \| col 1 is\|  left-aligned \| $1600 \| | ![](http://i.imgur.com/EItt7mh.png) |
-
+|[**User-Experience Design**](https://github.com/deepak-mane/my-mobile-app/blob/master/README.md#user-experience-design)|  *<ol><li>Information Architecture</li><li> Wireframes</li><li>Workflows</li><li>Click-through models</li></ol>*|
+|[**User-Interface Design**](https://github.com/deepak-mane/my-mobile-app/blob/master/README.md#user-interface-design)| *<ol><li>Style guides</li><li>Rendered Designs</li><li>Rendered Click-through models</li></ol>*|
+|[**Design-to-Development Handoff**](https://github.com/deepak-mane/my-mobile-app/blob/master/README.md##design-to-development-handoff)||
+|[**High-level Technical Design**](https://github.com/deepak-mane/my-mobile-app/blob/master/README.md#high-level-technical-design)| *<ol><li>Front End</li><li>Back End</li></ol>*|
+|[**Development & Iteration**](https://github.com/deepak-mane/my-mobile-app/blob/master/README.md#development-&-iteration)| *<ol><li>Planning</li><li>Development</li><li>Testing</li></ol>*|
+|[**Review**](https://github.com/deepak-mane/my-mobile-app/blob/master/README.md#review)||
+|[**Extended Review**](https://github.com/deepak-mane/my-mobile-app/blob/master/README.md#extended-review)| *<ol><li>Focus Groups</li><li>Beta Testing</li></ol>*|
+|[**Refinement**](https://github.com/deepak-mane/my-mobile-app/blob/master/README.md#refinement)||
+|[**Deployment**](https://github.com/deepak-mane/my-mobile-app/blob/master/README.md#deployment)| *<ol><li>Web API (Server)</li><li>App Stores</li></ol>*|
+|[**Monitoring**](https://github.com/deepak-mane/my-mobile-app/blob/master/README.md#monitoring)| *<ol><li>Crashes</li><li>Analytics</li><li>Performance</li><li>App Store Management</li></ol>*|
+|[**Further Iteration and Improvement**](https://github.com/deepak-mane/my-mobile-app/blob/master/README.md#further-iteration-and-improvement)||
 
 ## Idea
 All great apps began as ideas. Train yourself to always think of things in terms of problems and potential solutions.  If you can identify a problem or market inefficiency, you are half way to your idea! The next thing to do is understand why this problem exists and think about why nobody else has made an app to solve this problem previously. Talk to others with this problem. Immerse yourself in the problem space as much as possible. Once you have a complete grasp of the problem, begin to evaluate how a mobile app could solve the problem.
