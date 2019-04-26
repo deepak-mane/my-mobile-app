@@ -23,7 +23,7 @@ But before you do that you need to at latest have a clear idea about the factors
 ## What are the Factors Affecting the App Development Cost?
 App development is not an easy task and it requires certain aspects to consider while developing a feature-rich app. Here are the list of main factors affecting the cost of app development.
 
-|Factors ~ h3| 
+|Factors | 
 | :---|
 |Type of app|
 |Features of the app|
@@ -58,4 +58,16 @@ Not all app types are the same. So, you have to take into consideration all the 
 | --- | 
 |This is the toughest app category for calculating the development cost. These kinds of apps include simple PONG type functionality all incline to composite virtual reality games. For instance, the developer of Flappy Hen game which is a clone of Flappy Bird, it would cost around $6, 00,000-$7,00,000. A racing game, which uses a gyroscope, can cost near about $150,000. Hence, Cost of making an app in the gaming category would range from $60,000 to $250,000.|
 
-  
+## Mobile App Features Add Extra Costs to the App Development
+ Mobile App development is a complex process, and it mostly depends on the features set and design required. The cost of the app development will increase after adding the new features:
+
+| App Features|||
+| --- | --- | --- | 
+|User login|Push notification|Navigation|
+|Portrait/landscape mode|Media content|Geolocation|
+|Google map integration|Chat/messaging|Ads|
+|Search|Customization|In-app purchase|
+|Chat bots|Payment integration|Streaming|
+|Device synchronization|Multiple language support|Offline mode|
+|Database|Data encryption|Phone sensors usage|
+
