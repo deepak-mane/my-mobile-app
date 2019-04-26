@@ -1,6 +1,20 @@
 # My Mobile App
 This mobile app development process typically includes idea, strategy, design, development, deployment, and post-launch phases.
 
+|App Dev Process | |
+| :---| :--- |
+|Idea| |
+|Strategy| Identifying Competion.
+Monetization
+Marketing
+MVP|
+|User-Experience Design| Information Architecture
+Wireframes 
+Workflows
+Click-through models
+||
+||
+
 ## Idea
 All great apps began as ideas. Train yourself to always think of things in terms of problems and potential solutions.  If you can identify a problem or market inefficiency, you are half way to your idea! The next thing to do is understand why this problem exists and think about why nobody else has made an app to solve this problem previously. Talk to others with this problem. Immerse yourself in the problem space as much as possible. Once you have a complete grasp of the problem, begin to evaluate how a mobile app could solve the problem.
 This is where having some understanding of what mobile apps can do is extremely valuable. “Is this even possible?” Fortunately, the answer is often yes, but it is imperative that this answer is sound. You are about to invest a considerable amount of time and money into an app, now is the time to challenge your idea’s validity and viability.
