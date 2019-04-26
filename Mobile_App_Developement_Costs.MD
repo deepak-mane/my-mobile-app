@@ -23,7 +23,7 @@ But before you do that you need to at latest have a clear idea about the factors
 ## What are the Factors Affecting the App Development Cost?
 App development is not an easy task and it requires certain aspects to consider while developing a feature-rich app. Here are the list of main factors affecting the cost of app development.
 
-|Factors | 
+|Factors ~ h3| 
 | :---|
 |Type of app|
 |Features of the app|
