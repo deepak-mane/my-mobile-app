@@ -361,7 +361,7 @@ There are two main components to deploying your mobile app into the world. The f
 ->Packaged Information
 =>Output: Reports
 
-[Mobile App Maintenance Services](https://github.com/deepak-mane/my-mobile-app/blob/master/Mobile_App_Maintenance.MD#mobile-app-maintenance-services)
+[Mobile App Maintenance Services](https://github.com/deepak-mane/my-mobile-app/blob/master/Mobile_App_Maintenance.md#mobile-app-maintenance-services)
 
 It would be incredibly naive to think that the mobile app development process ends when the app is shipped. Go look at any even moderately popular apps and you will see a long history of app updates. These updates include fixes, performance improvements, changes, and new features. Thorough monitoring is essential to best understand what sort of updates are needed. Here are a few things you should be monitoring.
 
