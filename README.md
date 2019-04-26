@@ -1,9 +1,9 @@
 # My Mobile App
 This mobile app development process typically includes idea, strategy, design, development, deployment, and post-launch phases.
 
-|App Dev Process | |
+|**App Dev Process** | |
 | :---| :--- |
-|**Idea**| |
+|[**Idea**](https://github.com/deepak-mane/my-mobile-app/blob/master/README.md#idea)| |
 |[**Strategy**](https://github.com/deepak-mane/my-mobile-app/blob/master/README.md#strategy)| *<ol><li>Identifying Competion</li><li>Monetization</li><li>Marketing</li><li>MVP</li></ol>*|
 |[**User-Experience Design**](https://github.com/deepak-mane/my-mobile-app/blob/master/README.md#user-experience-design)|  *<ol><li>Information Architecture</li><li> Wireframes</li><li>Workflows</li><li>Click-through models</li></ol>*|
 |[**User-Interface Design**](https://github.com/deepak-mane/my-mobile-app/blob/master/README.md#user-interface-design)| *<ol><li>Style guides</li><li>Rendered Designs</li><li>Rendered Click-through models</li></ol>*|
