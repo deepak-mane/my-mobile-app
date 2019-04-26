@@ -39,7 +39,7 @@ This is where having some understanding of what mobile apps can do is extremely 
 	1)Learn for free lessons from competitors
 	2)To Understand how hard it will be to compete in marketplace
 
-### 2. ] Montetization
+### 2. ] Monetization
 	Several methods of monetization that could work, including: 
 	- in-app purchases, 
 	- subscription payments, 
