@@ -166,6 +166,8 @@ Part of what helps ensure a smooth transition and exact implementation is the pr
 ## High-level Technical Design (Tech Stack)
 There are numerous approaches, technologies, and programing languages that can be used to build a mobile app. Each with its own strengths and shortcomings. Some might be cheaper to use, but are less performant, whereas others might take longer to implement and be overkill. The worst possibility is building on a dying or unreliable technology stack. If you make this mistake, you might have to rebuild your app or pay a premium for developers moving forward. That is why having a trusted development partner that is seasoned in making these decisions is vital in this process.
 
+[Ionic Vs Native](https://github.com/deepak-mane/my-mobile-app/blob/master/compare_inoic_vs_native_app_development.md#which-mobile-app-developement-platform-to-choose--ionic-vs-native)
+
 ### 1. ] Front-end (the mobile app)
 For front-end development, there are basically 3 approaches. They are platform-specific native, cross-platform native, and hybrid. Here is a brief overview of each approach and some articles that delve into each with greater details.
 
