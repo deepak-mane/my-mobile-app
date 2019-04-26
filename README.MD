@@ -6,8 +6,19 @@ This mobile app development process typically includes idea, strategy, design, d
 |Idea| |
 |Strategy| 1. Identifying Competion. 2. Monetization 3. Marketing 4. MVP|
 |User-Experience Design| 1. Information Architecture 2. Wireframes  3. Workflows 4. Click-through models |
-|||
-|||
+|User-Interface Design| 1. Style guides 2. Rendered Designs 3. Rendered Click-through models |
+|Design-to-Development Handoff||
+|High-level Technical Design |1. Front End 2. Back End|
+|Development & Iteration|1. Planning 2. Development 3. Testing|
+|Review||
+|Extended Review|1. Focus Groups 2. Beta Testing|
+|Refinement||
+|Deployment|1. Web API (Server) 2. App Stores|
+|Monitoring|1. Crashes 2. Analytics 3. Performance 4. App Store Management|
+|Further Iteration and Improvement||
+
+
+
 
 ## Idea
 All great apps began as ideas. Train yourself to always think of things in terms of problems and potential solutions.  If you can identify a problem or market inefficiency, you are half way to your idea! The next thing to do is understand why this problem exists and think about why nobody else has made an app to solve this problem previously. Talk to others with this problem. Immerse yourself in the problem space as much as possible. Once you have a complete grasp of the problem, begin to evaluate how a mobile app could solve the problem.
