@@ -12,7 +12,7 @@ This is where having some understanding of what mobile apps can do is extremely 
 ->User Feedback
 ->Goal Review
 ->Output: Summarize into Report 
-### 1.] identifying your competition
+### 1. ] Identifying your competition
 	Once you have an idea, you need to plan for your app’s success by identifying your competition. 
 	Check to see if any other apps serve a similar purpose and look for the following
 	- No. of installs - See if anyone is using these apps.
@@ -23,7 +23,7 @@ This is where having some understanding of what mobile apps can do is extremely 
 	1)Learn for free lessons from competitors
 	2)To Understand how hard it will be to compete in marketplace
 
-### 2.] Montetization
+### 2. ] Montetization
 	Several methods of monetization that could work, including: 
 	- in-app purchases, 
 	- subscription payments, 
@@ -36,14 +36,14 @@ This is where having some understanding of what mobile apps can do is extremely 
 	at what point you begin monetizing your app. Far too many apps (particularly startups)
 	skip this step and have a hard time later turning a profit.
 
-### 3.] Marketing
+### 3. ] Marketing
 	Identifying the biggest challenges you will face when marketing your app. 
 	Assuming you have a reliable app development and app design team, your biggest hurdles will 
 	likely be driving app adoption
 
 [Mobile App Marketing Services](https://github.com/deepak-mane/my-mobile-app/blob/master/Mobile_App_Marketing_Services.MD#mobile-app-marketing-services)
 
-### 4.] Road Map (MVP)
+### 4. ] Road Map (MVP)
 	The final stage of the strategy process is defining your app’s roadmap. The goal of this process 
 	is to understand what your app could one day become and what it needs to be successful on day one. 
 	This day one version is often called your Minimum Viable Product (MVP). During this process, 
@@ -64,7 +64,7 @@ This is where having some understanding of what mobile apps can do is extremely 
 ->Iteration
 =>Output: Tappable UX Prototype
 
-### 1.] Information Architecture:
+### 1. ] Information Architecture:
 	Information architecture is the process in which you decide what data and functionality needs 
 	to be presented within your app and how that data and functionality is organized. Typically, 
 	we begin this process by writing down a list of features we want the app to perform and a list 
@@ -73,7 +73,7 @@ This is where having some understanding of what mobile apps can do is extremely 
 
 - Tools we use: Whiteboards and Pencil & paper
 
-### 2.] Wireframes 
+### 2. ] Wireframes 
 	Next, we begin creating screens and assigning each functions and data. It is ok if somethings 
 	live in multiple places, but you need to make sure each item has a home. This process often takes 
 	place on whiteboards or paper initially. You want to make changes here, rather than later in the 
@@ -83,7 +83,7 @@ This is where having some understanding of what mobile apps can do is extremely 
 - Tools we use: Whiteboards, Pencil & paper, [balsamiq](https://balsamiq.com/wireframes/), 
 	and [Sketch](https://www.sketch.com/)
 
-### 3.] Workflows
+### 3. ] Workflows
 	Workflows are the pathways users can travel within your app. Consider each of the things 
 	you want your users to be able to do and see how many clicks are needed to complete that 
 	action. Make sure each click is intuitive. If something takes a few clicks to accomplish, 
@@ -94,7 +94,7 @@ This is where having some understanding of what mobile apps can do is extremely 
 
 - Tools we use: Whiteboards, Pencil & paper, [Invision](https://www.invisionapp.com/)
 
-### 4.] Click-through models
+### 4. ] Click-through models
 	Click-through models help you test your wireframes and workflows. They are basically a way
 	to experience your wireframes on a phone for more realistic testing. For example, our 
 	clients simply receive a link, which when opened on their phone allows them to click through 
@@ -112,7 +112,7 @@ This is where having some understanding of what mobile apps can do is extremely 
 ->Iteration
 =>Output: Tappable UI Protoype
 
-### 1.] Style guides
+### 1. ] Style guides
 	Style guides are basically the building blocks of your app’s design. By having a consistent 
 	design language, users are more likely to be comfortable within your app.You need to consider
 	who you are and who your customers will be. Is your app going to be used at night? Then maybe
@@ -122,7 +122,7 @@ This is where having some understanding of what mobile apps can do is extremely 
 	for you and your customers. The output of this phase is a set of colors, fonts, and widgets 
 	(buttons, forms, labels, etc.) that will be drawn from in the design of your app.
 
-### 2.] Rendered designs
+### 2. ] Rendered designs
 	Rendered design is the process of taking your wireframes and replacing the grayscale elements
 	with elements from your style guide. There should be a rendered screen for each wireframe
 	screen. Try to stay true to your style guide in this process, but you don’t have to be 
@@ -130,7 +130,7 @@ This is where having some understanding of what mobile apps can do is extremely 
 	or amend your style guides. Just make sure your design is consistent when this stage is complete.
 - Tools we use: Whiteboards, Pencil & paper, and [Sketch](https://www.sketch.com/)
 
-### 3.] Rendered Click-through models
+### 3. ] Rendered Click-through models
 	Once you have all your screens rendered, return to your click-through model application and
 	test your app again. This is the step in the mobile app development process where you 
 	really want to take your time. Although a considerable amount of effort has already gone 
@@ -150,7 +150,7 @@ Part of what helps ensure a smooth transition and exact implementation is the pr
 ## High-level Technical Design (Tech Stack)
 There are numerous approaches, technologies, and programing languages that can be used to build a mobile app. Each with its own strengths and shortcomings. Some might be cheaper to use, but are less performant, whereas others might take longer to implement and be overkill. The worst possibility is building on a dying or unreliable technology stack. If you make this mistake, you might have to rebuild your app or pay a premium for developers moving forward. That is why having a trusted development partner that is seasoned in making these decisions is vital in this process.
 
-### 1.] Front-end (the mobile app)
+### 1. ] Front-end (the mobile app)
 For front-end development, there are basically 3 approaches. They are platform-specific native, cross-platform native, and hybrid. Here is a brief overview of each approach and some articles that delve into each with greater details.
 
 #### 1.1 ) Platform-specific Native 
@@ -168,7 +168,7 @@ For front-end development, there are basically 3 approaches. They are platform-s
 	installed via a native wrapper. This can be done using technologies such as Cordova, Phone Gap,
 	and Ionic. This option can be the cheapest, but also presents some very real difficulties.
 
-### 2.] Back-end (Web API & Server)
+### 2. ] Back-end (Web API & Server)
 The server is responsible for much of your app’s performance and scalability. The technologies used here are similar to those used to power web-based applications. Here are a few things you have to decide before writing code:
 
 #### 2.1 ) Language 
@@ -201,7 +201,7 @@ Sound mobile app development is an iterative process. You have likely heard the 
 	
 [Mobile App Development Costs ](https://github.com/deepak-mane/my-mobile-app/blob/master/Mobile_App_Developement_Costs.MD)
 
-### 1.) Planning 
+### 1. ) Planning 
 	The planning phase of a sprint involves dividing up the list of tasks to be implemented 
 	during the current iteration. Each task needs clearly defined requirements. Once these 
 	requirements are  understood by developers, they will often estimate the time needed to 
@@ -214,7 +214,7 @@ Sound mobile app development is an iterative process. You have likely heard the 
 	to go and update code in numerous places. Instead, well designed software can be changed in 
 	select places to make these sorts of sweeping changes.
 
-### 2.) Development
+### 2. ) Development
 	During the development phase your development team will begin implementing the styles and
 	functionality of your app. As they are completed, they are assigned back to a project 
 	manager or QA tester for review. Good project managers are able to fully optimize 
@@ -236,7 +236,7 @@ Sound mobile app development is an iterative process. You have likely heard the 
 
 - Tools we use: [Hockey App](https://hockeyapp.net/)
 
-### 3.) Testing
+### 3. ) Testing
 	Most testing should be performed by non-developers or at least people who are not your 
 	app’s primary 	developer. This will help ensure a more genuine testing experience. There 
 	are several types of testing that should occur during each sprint. These typically include 
@@ -283,7 +283,7 @@ At the end of each sprint talk with each of the stakeholders and determine how t
 ## Extended Review
 At this point your app should be fully testable and feature complete (at least for the MVP). Before you spend a sizable amount of time and money on marketing, take the time to test your app with a sample of your potential users. There are two main ways to go about this.
 
-#### 1.) Focus Groups
+#### 1. ) Focus Groups
 	Focus groups involve conducting an interview with a tester or group of testers who have never 
 	seen the app before and conduct an interview. You want to understand who these testers are, how they 
 	learn about new apps, and if they use similar apps already. Try to get some background info out of them 
@@ -293,7 +293,7 @@ At this point your app should be fully testable and feature complete (at least f
 	get their feedback. Remember to not be too strongly guided by any one tester, but combine feedback 
 	and make intelligent decisions using all available feedback.
 
-#### 2.) Beta Testing
+#### 2. ) Beta Testing
 	In addition to, or instead of focus groups, you can do a beta launch of your app. Beta tests involve
 	getting a group of testers to user your app in the real world. They use the app just as if it had 
 	launched, but in much smaller numbers. Often these beta testers will be power users, early adopters,
@@ -315,7 +315,7 @@ After these extended review periods, it is common to have a final development sp
 
 There are two main components to deploying your mobile app into the world. The first involves deploying your web server (API) into a production environment that is scalable. The second is deploying your app to the Google Play Store and Apple App Store.
 
-#### 1.) Web API (Server)
+#### 1. ) Web API (Server)
 	Most mobile apps require a server back-end to function. These web servers are responsible for 
 	transferring data to and from the app. If your server is overloaded or stops working, the app will 
 	stop working. Properly configured servers are scalable to meet your current and potential user base,
@@ -324,7 +324,7 @@ There are two main components to deploying your mobile app into the world. The f
 	handle spikes in traffic. It is not terribly difficult to scale for most mobile apps, but you want 
 	to ensure your team knows what they are doing or your app could fall apart, just when it gets popular.
 
-#### 2.) App Stores
+#### 2. ) App Stores
 	Submitting your apps to the app stores is a moderately involved process. You need to make sure your
 	apps are properly configured for release, fill out several forms for each store, submit screenshots
 	and marketing materials, and write a description. Additionally, Apple manually reviews all apps 
@@ -346,7 +346,7 @@ There are two main components to deploying your mobile app into the world. The f
 
 It would be incredibly naive to think that the mobile app development process ends when the app is shipped. Go look at any even moderately popular apps and you will see a long history of app updates. These updates include fixes, performance improvements, changes, and new features. Thorough monitoring is essential to best understand what sort of updates are needed. Here are a few things you should be monitoring.
 
-#### 1.) Crashes
+#### 1. ) Crashes
 	There are numerous libraries that can be used to reliably track app crashes. These libraries include
 	information about what the user was doing, what device they were on, and plenty of technical info 
 	that is crucial for your development team in resolving the problem. Apps can be configured to 
@@ -354,7 +354,7 @@ It would be incredibly naive to think that the mobile app development process en
 	
 - Tools we use: [Sentry](https://www.sentry.com/) and [HockeyApp](https://www.hockeyapp.net/)
 
-#### 2.) Analytics
+#### 2. ) Analytics
 	Modern app analytics systems are are treasure trove of information. They can help you understand
 	who is using your apps (age, gender, location, language, etc.) and how they are using it (time of
 	day, time spent in app, screens viewed in app, etc.). Some even allow you to view heat maps of 
@@ -368,7 +368,7 @@ It would be incredibly naive to think that the mobile app development process en
 	[Google Analytics](https://marketingplatform.google.com/about/analytics/), and 
 	[Appsee](https://www.appsee.com/)
 
-#### 3.) Performance
+#### 3. ) Performance
 	One vital metric not covered by the previous two monitoring categories is your apps technical
 	performance, i.e. how quickly it works. Any system we deploy has extensive performance 
 	monitoring in place. We are able to track how many times an action occurred and how long that
@@ -379,7 +379,7 @@ It would be incredibly naive to think that the mobile app development process en
  
 - Tools we use: [Prometheus](https://prometheus.io/)
  
-#### 4.) App Store Management
+#### 4. ) App Store Management
 	App store ratings and reviews are extremely important, particularly for newer apps. Whenever 
 	a new review is left on your listing, make sure to engage the reviewer. Thank users who give 
 	you great reviews and try to assist those who were frustrated. I have seen hundreds of poor 
